@@ -6,7 +6,7 @@ define('DB_NAME', 'pro_count_db');
 define('DB_USER', 'root');
 define('DB_PASS', 'root');
 
-define('GEMINI_API_KEY', 'AIzaSyBAN9AcKb9fiEcXCRlPn6U6voS-BLVzNGk'); // <-- Put your Gemini API key here
+define('GEMINI_API_KEY', 'HERE'); // <-- Put your Gemini API key here
 define('GEMINI_MODEL', 'gemini-2.5-flash');
 define('GEMINI_TTS_MODEL', 'gemini-2.5-flash-preview-tts');
 
